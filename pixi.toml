@@ -1,0 +1,24 @@
+[workspace]
+name = "biostat707_checkpoint1"
+channels = ["conda-forge"]
+platforms = ["win-64"]
+
+[dependencies]
+python = "3.12.*"
+jupyterlab = ">=4"
+nbconvert = "*"
+ipykernel = "*"
+nbstripout = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+missingno = "*"
+tableone = "*"
+statsmodels = "*"
+scipy = "*"
+pillow = "*"
+
+[tasks]
+checkpoint1 = "jupyter nbconvert --to html --execute checkpoint1.ipynb --output-dir output --ExecutePreprocessor.timeout=1800"
+lab = "jupyter lab"
