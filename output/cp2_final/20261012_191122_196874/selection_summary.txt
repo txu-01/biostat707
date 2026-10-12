@@ -1,0 +1,5 @@
+Final model: Ridge Logistic. Highest mean-AUROC model: Random Forest. Ridge gap: 0.0024. Ridge is preferred within that margin for simplicity and coefficient-based interpretability. The 0.01 preference is a practical choice, not evidence of equivalence or statistical significance.
+
+On the SAPS-I-available cohort, Random Forest exceeds SAPS-I by 0.1965 mean fold AUROC (fold-difference SD 0.0372). The mean improvement is larger than one SD of the paired fold differences. This is a descriptive comparison; five dependent CV folds do not supply an independent significance test.
+
+On the SOFA-available cohort, Random Forest exceeds SOFA by 0.2250 mean fold AUROC (fold-difference SD 0.0356). The mean improvement is larger than one SD of the paired fold differences. This is a descriptive comparison; five dependent CV folds do not supply an independent significance test.

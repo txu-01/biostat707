@@ -1,0 +1,7 @@
+Check,Observed,Historical reference
+Measurements outside 0–48 h,0,0
+141449 temperature before cleaning,65,65
+141449 valid temperature,39,39
+Stays without valid MAP,1211,1211
+Missing SAPS-I,190,190
+Missing SOFA,144,144

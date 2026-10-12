@@ -5,3 +5,9 @@ output/*
 .ipynb_checkpoints/
 __pycache__/
 .vscode/
+archive/
+
+# Publish only the verified Checkpoint 2 run; keep other outputs local.
+!output/cp2_final/
+output/cp2_final/*
+!output/cp2_final/20261012_191122_196874/

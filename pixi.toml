@@ -18,6 +18,7 @@ tableone = "*"
 statsmodels = "*"
 scipy = "*"
 pillow = "*"
+scikit-learn = ">=1.9.1,<2"
 
 [tasks]
 checkpoint1 = "jupyter nbconvert --to html --execute checkpoint1.ipynb --output-dir output --ExecutePreprocessor.timeout=1800"

@@ -1,0 +1,16 @@
+{
+  "status": "All notebook analysis cells completed",
+  "results_directory": "output\\cp2_final\\20261012_191122_196874",
+  "selected_model": "Ridge Logistic",
+  "required_artifacts": [
+    "cp2_final_model.joblib",
+    "cp2_oof_predictions.csv",
+    "model_comparison.csv",
+    "fold_results.csv",
+    "ridge_coefficients_all.png",
+    "spline_partial_effects.png",
+    "roc_comparison.png",
+    "predictor_inventory.csv",
+    "model_metadata.json"
+  ]
+}

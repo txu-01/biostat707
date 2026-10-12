@@ -4,3 +4,6 @@ pixi.lock merge=binary linguist-language=YAML linguist-generated=true -diff
 *.ipynb filter=nbstripout
 *.zpln filter=nbstripout
 *.ipynb diff=ipynb
+
+# Keep the executed Checkpoint 2 results visible on GitHub.
+checkpoint2.ipynb -filter

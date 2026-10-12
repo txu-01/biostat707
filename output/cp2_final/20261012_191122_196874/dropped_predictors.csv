@@ -1,0 +1,27 @@
+Column,Reason
+Age_count,Redundant baseline-field summary
+Age_last,Redundant baseline-field summary
+Age_min,Redundant baseline-field summary
+Age_max,Redundant baseline-field summary
+Age_mean,Redundant baseline-field summary
+Gender_count,Redundant baseline-field summary
+Gender_last,Redundant baseline-field summary
+Gender_min,Redundant baseline-field summary
+Gender_max,Redundant baseline-field summary
+Gender_mean,Redundant baseline-field summary
+Height_count,Redundant baseline-field summary
+Height_last,Redundant baseline-field summary
+Height_min,Redundant baseline-field summary
+Height_max,Redundant baseline-field summary
+Height_mean,Redundant baseline-field summary
+ICUType_count,Redundant baseline-field summary
+ICUType_last,Redundant baseline-field summary
+ICUType_min,Redundant baseline-field summary
+ICUType_max,Redundant baseline-field summary
+ICUType_mean,Redundant baseline-field summary
+RecordID,Identifier
+In-hospital_death,Outcome
+SAPS-I,Benchmark only
+SOFA,Benchmark only
+Length_of_stay,Post-observation information
+Survival,Post-observation information

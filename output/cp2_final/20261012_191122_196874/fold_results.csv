@@ -1,0 +1,26 @@
+Fold,AUROC,n,Deaths,Best parameters,Method
+1,0.8042028985507246,800,110,"{""model__C"": 0.01}",Ridge Logistic
+2,0.8528092679036074,800,111,"{""model__C"": 0.01}",Ridge Logistic
+3,0.8653617332862615,800,111,"{""model__C"": 0.01}",Ridge Logistic
+4,0.8473044888139227,800,111,"{""model__C"": 0.01}",Ridge Logistic
+5,0.8608114645850495,800,111,"{""model__C"": 0.01}",Ridge Logistic
+1,0.7814888010540184,800,110,"{""model__C"": 0.1}",Spline Logistic
+2,0.7998927810248565,800,111,"{""model__C"": 1}",Spline Logistic
+3,0.7905961113508284,800,111,"{""model__C"": 0.1}",Spline Logistic
+4,0.7874710704899384,800,111,"{""model__C"": 0.1}",Spline Logistic
+5,0.8186299507054223,800,111,"{""model__C"": 0.1}",Spline Logistic
+1,0.8158893280632411,800,110,"{""model__max_depth"": 20, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 5}",Random Forest
+2,0.8423881065390498,800,111,"{""model__max_depth"": 20, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 5}",Random Forest
+3,0.8547052131957793,800,111,"{""model__max_depth"": 20, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 5}",Random Forest
+4,0.8549536474064776,800,111,"{""model__max_depth"": 20, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 5}",Random Forest
+5,0.874488421658233,800,111,"{""model__max_depth"": 20, ""model__max_features"": ""sqrt"", ""model__min_samples_leaf"": 5}",Random Forest
+1,0.6713236353161457,761,106,Not fitted,SAPS-I
+2,0.6304137223615227,763,107,Not fitted,SAPS-I
+3,0.6045187521703901,758,106,Not fitted,SAPS-I
+4,0.669341161121983,762,105,Not fitted,SAPS-I
+5,0.6770549672213817,766,105,Not fitted,SAPS-I
+1,0.5925995231758704,776,108,Not fitted,SOFA
+2,0.6234124131320393,770,107,Not fitted,SOFA
+3,0.5674306272216489,754,108,Not fitted,SOFA
+4,0.6593375330217436,776,111,Not fitted,SOFA
+5,0.6702985074626866,780,110,Not fitted,SOFA

@@ -1,0 +1,22 @@
+{
+  "fresh_kernel_execution": true,
+  "code_cells": 10,
+  "notebook_cells": 21,
+  "notebook_errors": 0,
+  "outer_cv_evaluations": [
+    "Ridge Logistic",
+    "Spline Logistic",
+    "Random Forest"
+  ],
+  "shared_outer_folds": true,
+  "oof_export_count": 1,
+  "full_data_fits": [
+    "Ridge Logistic",
+    "Spline Logistic"
+  ],
+  "required_diagnostic_fits_cached": true,
+  "figures": 3,
+  "previous_predictions_and_results_unchanged": true,
+  "independently_recomputed_fold_aurocs": 25,
+  "selected_model": "Ridge Logistic"
+}

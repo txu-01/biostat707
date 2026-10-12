@@ -1,0 +1,264 @@
+Predictor,Group,Type,Clinical rationale,Missing (%)
+ALP_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+ALT_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+AST_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Albumin_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+BUN_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Bilirubin_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Cholesterol_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Creatinine_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+DiasABP_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+FiO2_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+GCS_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Glucose_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+HCO3_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+HCT_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+HR_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+K_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Lactate_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+MAP_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+MechVent_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Mg_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+NIDiasABP_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+NIMAP_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+NISysABP_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Na_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+PaCO2_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+PaO2_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Platelets_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+RespRate_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+SaO2_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+SysABP_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Temp_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+TroponinI_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+TroponinT_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Urine_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+WBC_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+Weight_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+pH_count,count,numeric,Intensity of clinical monitoring using valid measurements.,0.0
+ALP_first,first,numeric,Initial available condition; baseline demographics when static.,57.75
+ALT_first,first,numeric,Initial available condition; baseline demographics when static.,56.974999999999994
+AST_first,first,numeric,Initial available condition; baseline demographics when static.,56.875
+Age_first,first,numeric,Initial available condition; baseline demographics when static.,0.0
+Albumin_first,first,numeric,Initial available condition; baseline demographics when static.,59.62499999999999
+BUN_first,first,numeric,Initial available condition; baseline demographics when static.,1.6
+Bilirubin_first,first,numeric,Initial available condition; baseline demographics when static.,57.05
+Cholesterol_first,first,numeric,Initial available condition; baseline demographics when static.,92.375
+Creatinine_first,first,numeric,Initial available condition; baseline demographics when static.,1.6
+DiasABP_first,first,numeric,Initial available condition; baseline demographics when static.,30.025000000000002
+FiO2_first,first,numeric,Initial available condition; baseline demographics when static.,32.074999999999996
+GCS_first,first,numeric,Initial available condition; baseline demographics when static.,1.6
+Gender_first,first,categorical,Initial available condition; baseline demographics when static.,0.075
+Glucose_first,first,numeric,Initial available condition; baseline demographics when static.,2.825
+HCO3_first,first,numeric,Initial available condition; baseline demographics when static.,1.9
+HCT_first,first,numeric,Initial available condition; baseline demographics when static.,1.6
+HR_first,first,numeric,Initial available condition; baseline demographics when static.,1.575
+Height_first,first,numeric,Initial available condition; baseline demographics when static.,47.75
+ICUType_first,first,categorical,Initial available condition; baseline demographics when static.,0.0
+K_first,first,numeric,Initial available condition; baseline demographics when static.,2.4
+Lactate_first,first,numeric,Initial available condition; baseline demographics when static.,45.425
+MAP_first,first,numeric,Initial available condition; baseline demographics when static.,30.275000000000002
+MechVent_first,first,numeric,Initial available condition; baseline demographics when static.,36.775000000000006
+Mg_first,first,numeric,Initial available condition; baseline demographics when static.,2.5749999999999997
+NIDiasABP_first,first,numeric,Initial available condition; baseline demographics when static.,12.925
+NIMAP_first,first,numeric,Initial available condition; baseline demographics when static.,12.975
+NISysABP_first,first,numeric,Initial available condition; baseline demographics when static.,12.675
+Na_first,first,numeric,Initial available condition; baseline demographics when static.,1.875
+PaCO2_first,first,numeric,Initial available condition; baseline demographics when static.,24.425
+PaO2_first,first,numeric,Initial available condition; baseline demographics when static.,24.425
+Platelets_first,first,numeric,Initial available condition; baseline demographics when static.,1.7000000000000002
+RespRate_first,first,numeric,Initial available condition; baseline demographics when static.,72.475
+SaO2_first,first,numeric,Initial available condition; baseline demographics when static.,55.2
+SysABP_first,first,numeric,Initial available condition; baseline demographics when static.,30.025000000000002
+Temp_first,first,numeric,Initial available condition; baseline demographics when static.,1.6
+TroponinI_first,first,numeric,Initial available condition; baseline demographics when static.,94.875
+TroponinT_first,first,numeric,Initial available condition; baseline demographics when static.,78.425
+Urine_first,first,numeric,Initial available condition; baseline demographics when static.,2.9250000000000003
+WBC_first,first,numeric,Initial available condition; baseline demographics when static.,1.825
+Weight_first,first,numeric,Initial available condition; baseline demographics when static.,7.3999999999999995
+pH_first,first,numeric,Initial available condition; baseline demographics when static.,24.0
+ALP_last,last,numeric,Most recent condition within the observation window.,57.75
+ALT_last,last,numeric,Most recent condition within the observation window.,56.974999999999994
+AST_last,last,numeric,Most recent condition within the observation window.,56.875
+Albumin_last,last,numeric,Most recent condition within the observation window.,59.62499999999999
+BUN_last,last,numeric,Most recent condition within the observation window.,1.6
+Bilirubin_last,last,numeric,Most recent condition within the observation window.,57.05
+Cholesterol_last,last,numeric,Most recent condition within the observation window.,92.375
+Creatinine_last,last,numeric,Most recent condition within the observation window.,1.6
+DiasABP_last,last,numeric,Most recent condition within the observation window.,30.025000000000002
+FiO2_last,last,numeric,Most recent condition within the observation window.,32.074999999999996
+GCS_last,last,numeric,Most recent condition within the observation window.,1.6
+Glucose_last,last,numeric,Most recent condition within the observation window.,2.825
+HCO3_last,last,numeric,Most recent condition within the observation window.,1.9
+HCT_last,last,numeric,Most recent condition within the observation window.,1.6
+HR_last,last,numeric,Most recent condition within the observation window.,1.575
+K_last,last,numeric,Most recent condition within the observation window.,2.4
+Lactate_last,last,numeric,Most recent condition within the observation window.,45.425
+MAP_last,last,numeric,Most recent condition within the observation window.,30.275000000000002
+MechVent_last,last,numeric,Most recent condition within the observation window.,36.775000000000006
+Mg_last,last,numeric,Most recent condition within the observation window.,2.5749999999999997
+NIDiasABP_last,last,numeric,Most recent condition within the observation window.,12.925
+NIMAP_last,last,numeric,Most recent condition within the observation window.,12.975
+NISysABP_last,last,numeric,Most recent condition within the observation window.,12.675
+Na_last,last,numeric,Most recent condition within the observation window.,1.875
+PaCO2_last,last,numeric,Most recent condition within the observation window.,24.425
+PaO2_last,last,numeric,Most recent condition within the observation window.,24.425
+Platelets_last,last,numeric,Most recent condition within the observation window.,1.7000000000000002
+RespRate_last,last,numeric,Most recent condition within the observation window.,72.475
+SaO2_last,last,numeric,Most recent condition within the observation window.,55.2
+SysABP_last,last,numeric,Most recent condition within the observation window.,30.025000000000002
+Temp_last,last,numeric,Most recent condition within the observation window.,1.6
+TroponinI_last,last,numeric,Most recent condition within the observation window.,94.875
+TroponinT_last,last,numeric,Most recent condition within the observation window.,78.425
+Urine_last,last,numeric,Most recent condition within the observation window.,2.9250000000000003
+WBC_last,last,numeric,Most recent condition within the observation window.,1.825
+Weight_last,last,numeric,Most recent condition within the observation window.,7.3999999999999995
+pH_last,last,numeric,Most recent condition within the observation window.,24.0
+ALP_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,57.75
+ALT_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,56.974999999999994
+AST_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,56.875
+Albumin_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,59.62499999999999
+BUN_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.6
+Bilirubin_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,57.05
+Cholesterol_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,92.375
+Creatinine_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.6
+DiasABP_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,30.025000000000002
+FiO2_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,32.074999999999996
+GCS_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.6
+Glucose_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,2.825
+HCO3_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.9
+HCT_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.6
+HR_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.575
+K_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,2.4
+Lactate_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,45.425
+MAP_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,30.275000000000002
+MechVent_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,36.775000000000006
+Mg_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,2.5749999999999997
+NIDiasABP_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,12.925
+NIMAP_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,12.975
+NISysABP_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,12.675
+Na_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.875
+PaCO2_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,24.425
+PaO2_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,24.425
+Platelets_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.7000000000000002
+RespRate_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,72.475
+SaO2_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,55.2
+SysABP_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,30.025000000000002
+Temp_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.6
+TroponinI_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,94.875
+TroponinT_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,78.425
+Urine_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,2.9250000000000003
+WBC_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,1.825
+Weight_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,7.3999999999999995
+pH_min,min,numeric,Lowest recorded value may reflect physiological deterioration.,24.0
+ALP_max,max,numeric,Highest recorded value may reflect physiological stress.,57.75
+ALT_max,max,numeric,Highest recorded value may reflect physiological stress.,56.974999999999994
+AST_max,max,numeric,Highest recorded value may reflect physiological stress.,56.875
+Albumin_max,max,numeric,Highest recorded value may reflect physiological stress.,59.62499999999999
+BUN_max,max,numeric,Highest recorded value may reflect physiological stress.,1.6
+Bilirubin_max,max,numeric,Highest recorded value may reflect physiological stress.,57.05
+Cholesterol_max,max,numeric,Highest recorded value may reflect physiological stress.,92.375
+Creatinine_max,max,numeric,Highest recorded value may reflect physiological stress.,1.6
+DiasABP_max,max,numeric,Highest recorded value may reflect physiological stress.,30.025000000000002
+FiO2_max,max,numeric,Highest recorded value may reflect physiological stress.,32.074999999999996
+GCS_max,max,numeric,Highest recorded value may reflect physiological stress.,1.6
+Glucose_max,max,numeric,Highest recorded value may reflect physiological stress.,2.825
+HCO3_max,max,numeric,Highest recorded value may reflect physiological stress.,1.9
+HCT_max,max,numeric,Highest recorded value may reflect physiological stress.,1.6
+HR_max,max,numeric,Highest recorded value may reflect physiological stress.,1.575
+K_max,max,numeric,Highest recorded value may reflect physiological stress.,2.4
+Lactate_max,max,numeric,Highest recorded value may reflect physiological stress.,45.425
+MAP_max,max,numeric,Highest recorded value may reflect physiological stress.,30.275000000000002
+MechVent_max,max,numeric,Highest recorded value may reflect physiological stress.,36.775000000000006
+Mg_max,max,numeric,Highest recorded value may reflect physiological stress.,2.5749999999999997
+NIDiasABP_max,max,numeric,Highest recorded value may reflect physiological stress.,12.925
+NIMAP_max,max,numeric,Highest recorded value may reflect physiological stress.,12.975
+NISysABP_max,max,numeric,Highest recorded value may reflect physiological stress.,12.675
+Na_max,max,numeric,Highest recorded value may reflect physiological stress.,1.875
+PaCO2_max,max,numeric,Highest recorded value may reflect physiological stress.,24.425
+PaO2_max,max,numeric,Highest recorded value may reflect physiological stress.,24.425
+Platelets_max,max,numeric,Highest recorded value may reflect physiological stress.,1.7000000000000002
+RespRate_max,max,numeric,Highest recorded value may reflect physiological stress.,72.475
+SaO2_max,max,numeric,Highest recorded value may reflect physiological stress.,55.2
+SysABP_max,max,numeric,Highest recorded value may reflect physiological stress.,30.025000000000002
+Temp_max,max,numeric,Highest recorded value may reflect physiological stress.,1.6
+TroponinI_max,max,numeric,Highest recorded value may reflect physiological stress.,94.875
+TroponinT_max,max,numeric,Highest recorded value may reflect physiological stress.,78.425
+Urine_max,max,numeric,Highest recorded value may reflect physiological stress.,2.9250000000000003
+WBC_max,max,numeric,Highest recorded value may reflect physiological stress.,1.825
+Weight_max,max,numeric,Highest recorded value may reflect physiological stress.,7.3999999999999995
+pH_max,max,numeric,Highest recorded value may reflect physiological stress.,24.0
+ALP_mean,mean,numeric,Typical level over the observation window.,57.75
+ALT_mean,mean,numeric,Typical level over the observation window.,56.974999999999994
+AST_mean,mean,numeric,Typical level over the observation window.,56.875
+Albumin_mean,mean,numeric,Typical level over the observation window.,59.62499999999999
+BUN_mean,mean,numeric,Typical level over the observation window.,1.6
+Bilirubin_mean,mean,numeric,Typical level over the observation window.,57.05
+Cholesterol_mean,mean,numeric,Typical level over the observation window.,92.375
+Creatinine_mean,mean,numeric,Typical level over the observation window.,1.6
+DiasABP_mean,mean,numeric,Typical level over the observation window.,30.025000000000002
+FiO2_mean,mean,numeric,Typical level over the observation window.,32.074999999999996
+GCS_mean,mean,numeric,Typical level over the observation window.,1.6
+Glucose_mean,mean,numeric,Typical level over the observation window.,2.825
+HCO3_mean,mean,numeric,Typical level over the observation window.,1.9
+HCT_mean,mean,numeric,Typical level over the observation window.,1.6
+HR_mean,mean,numeric,Typical level over the observation window.,1.575
+K_mean,mean,numeric,Typical level over the observation window.,2.4
+Lactate_mean,mean,numeric,Typical level over the observation window.,45.425
+MAP_mean,mean,numeric,Typical level over the observation window.,30.275000000000002
+MechVent_mean,mean,numeric,Typical level over the observation window.,36.775000000000006
+Mg_mean,mean,numeric,Typical level over the observation window.,2.5749999999999997
+NIDiasABP_mean,mean,numeric,Typical level over the observation window.,12.925
+NIMAP_mean,mean,numeric,Typical level over the observation window.,12.975
+NISysABP_mean,mean,numeric,Typical level over the observation window.,12.675
+Na_mean,mean,numeric,Typical level over the observation window.,1.875
+PaCO2_mean,mean,numeric,Typical level over the observation window.,24.425
+PaO2_mean,mean,numeric,Typical level over the observation window.,24.425
+Platelets_mean,mean,numeric,Typical level over the observation window.,1.7000000000000002
+RespRate_mean,mean,numeric,Typical level over the observation window.,72.475
+SaO2_mean,mean,numeric,Typical level over the observation window.,55.2
+SysABP_mean,mean,numeric,Typical level over the observation window.,30.025000000000002
+Temp_mean,mean,numeric,Typical level over the observation window.,1.6
+TroponinI_mean,mean,numeric,Typical level over the observation window.,94.875
+TroponinT_mean,mean,numeric,Typical level over the observation window.,78.425
+Urine_mean,mean,numeric,Typical level over the observation window.,2.9250000000000003
+WBC_mean,mean,numeric,Typical level over the observation window.,1.825
+Weight_mean,mean,numeric,Typical level over the observation window.,7.3999999999999995
+pH_mean,mean,numeric,Typical level over the observation window.,24.0
+ALP_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+ALT_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+AST_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Albumin_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+BUN_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Bilirubin_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Cholesterol_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Creatinine_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+DiasABP_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+FiO2_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+GCS_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Glucose_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+HCO3_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+HCT_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+HR_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+K_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Lactate_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+MAP_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+MechVent_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Mg_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+NIDiasABP_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+NIMAP_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+NISysABP_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Na_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+PaCO2_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+PaO2_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Platelets_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+RespRate_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+SaO2_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+SysABP_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Temp_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+TroponinI_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+TroponinT_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Urine_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+WBC_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+Weight_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
+pH_measured,measured,numeric,Whether at least one valid measurement was available.,0.0
